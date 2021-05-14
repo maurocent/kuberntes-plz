@@ -1,1 +1,1 @@
-hola 
+const hola = hola 
